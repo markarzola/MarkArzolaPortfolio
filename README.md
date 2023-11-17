@@ -7,5 +7,5 @@ Data Science Portfolio
   - Examined the impact of categorical factors (smoker status, sex, region) on medical charges using boxplots.
   - Built a linear regression model to predict medical charges, considering factors like age, BMI, children, smoking status, and region. Provided insights into the model's coefficients and statistical significance.
 
-![](https://github.com/markarzola/MarkArzolaPortfolio/blob/main/numericmatrix.png)
+	![alt text](https://github.com/markarzola/MarkArzolaPortfolio/blob/main/numericmatrix.png)
     
