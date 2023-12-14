@@ -8,4 +8,12 @@ Data Science Portfolio
   - Built a linear regression model to predict medical charges, considering factors like age, BMI, children, smoking status, and region. Provided insights into the model's coefficients and statistical significance.
 
 	![numericmatrix](https://github.com/markarzola/MarkArzolaPortfolio/blob/main/numericmatrix.png)
+
+# [Tech Store Sales Analysis Project](https://github.com/markarzola/SalesAnalysis)
+- Conducted an analysis in Python on an Electronic Stores' Sales Analysis.
+- Used the pandas library to clean/manipulate the dataset.
+- Created Visualization that charted sales by item and sales by hour of the day.
+- The analysis found that sales peaked at 11am and at 7pm, signaling advertisement should be targeted at those hours.
+  	![salesbyhour](https://github.com/markarzola/SalesAnalysis/blob/main/images/ordersbyhour.png)
+
     
